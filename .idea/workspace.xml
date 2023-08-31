@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f3c1c70-803c-43d8-810a-8b1d317356a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/UnitConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/UnitConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/UnitConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/Website.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/Website.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/dat250assignment1/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/dat250assignment1/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,30 +66,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.1150748",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mikal\OneDrive\Dokumenter\Dat250\dat250assignment1\app\src\main\java\dat250assignment1" />
       <recent name="C:\Users\mikal\OneDrive\Dokumenter\Dat250\dat250assignment1\app\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.dat250assignment1 [run]">
+  <component name="RunManager" selected="JUnit.Whole project">
     <configuration name="dat250assignment1 [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -110,11 +117,38 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="All in dat250assignment1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dat250assignment1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Whole project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/dat250assignment1/app/src/main/java/dat250assignment1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Gradle.dat250assignment1 [run]" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JUnit.Whole project" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Whole project" />
+        <item itemvalue="JUnit.All in dat250assignment1" />
         <item itemvalue="Gradle.dat250assignment1 [run]" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -132,7 +166,7 @@
       <workItem from="1693224798068" duration="116000" />
       <workItem from="1693228466652" duration="2522000" />
       <workItem from="1693469890594" duration="247000" />
-      <workItem from="1693470185882" duration="2191000" />
+      <workItem from="1693470185882" duration="3399000" />
     </task>
     <servers />
   </component>

@@ -1,5 +1,8 @@
 package dat250assignment1;
 
+/**
+ * A class for the website template
+ */
 public class Website {
     protected static final String WEBPAGE = "<!DOCTYPE html>\n" +
             "<html lang=\"en\">\n" +
