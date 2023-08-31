@@ -1,7 +1,7 @@
 package dat250assignment1;
 
 public class Website {
-    public static final String WEBPAGE = "<!DOCTYPE html>\n" +
+    protected static final String WEBPAGE = "<!DOCTYPE html>\n" +
             "<html lang=\"en\">\n" +
             "<head>\n" +
             "    <meta charset=\"UTF-8\">\n" +
