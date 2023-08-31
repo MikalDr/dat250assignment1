@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f3c1c70-803c-43d8-810a-8b1d317356a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dat250-expass1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/UnitConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/UnitConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/Website.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/Website.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/dat250assignment1/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/dat250assignment1/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "android.gradle.sync.needed": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -143,6 +140,7 @@
     <list>
       <item itemvalue="Gradle.dat250assignment1 [run]" />
       <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JUnit.All in dat250assignment1" />
       <item itemvalue="JUnit.Whole project" />
     </list>
     <recent_temporary>
@@ -167,6 +165,7 @@
       <workItem from="1693228466652" duration="2522000" />
       <workItem from="1693469890594" duration="247000" />
       <workItem from="1693470185882" duration="3399000" />
+      <workItem from="1693474395984" duration="1315000" />
     </task>
     <servers />
   </component>
