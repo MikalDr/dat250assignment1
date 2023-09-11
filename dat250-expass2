@@ -1,0 +1,24 @@
+# JPA-tutorila report
+
+
+### Questions
+- Can you find out which database is used and where the database stores its files?
+  The database in this project is of the type H2, and is found at the top directory of the project, within the DB.my.db file.
+
+- Can you provide the SQl used to create the table Customer (Hint: Hibernate is used for the object-relational-mapping)?
+
+- Find a way to inspect the database tables being created and attach a screenshot of the database schema to your report. Do the created tables correspond to your initial thoughts regarding the exercise?
+
+### Technical Problems
+I encountered two problems while working with this task,
+the first being difficulties to open and check on the H2 database file,
+the other being that the assignment uses Collections within their diagrams on values that require more than one
+value, this gives an error with the tests as they are of value Set.
+
+### The Database
+
+
+
+### Links
+Here is the link to the JPA-tutorial github repo:
+https://github.com/MikalDr/dat250-jpa-tutorial/tree/master
