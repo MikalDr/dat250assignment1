@@ -16,4 +16,4 @@ The only major issues i faced in this exercise was that IntelliJ refused to use 
 
 #### DockerHub
 Here is the link for the dockerHub repo:
-https://hub.docker.com/r/mikaldr/dat250
+[Docker repo :-)](https://hub.docker.com/r/mikaldr/dat250)
