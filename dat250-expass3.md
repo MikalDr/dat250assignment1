@@ -14,10 +14,10 @@ After the install I started following the guidelines, and tried using the differ
 Using the _insertOne()_ function I created a new table called dogs, containing the dog “Pågen”, which is of
 item “border-collie”, in hindsight I should’ve used a the term _breed_ instead of _item_ as the first attribute,
 as it would have been more clear.
-![insert]([http://url/to/img.png](https://github.com/MikalDr/dat250assignment1/blob/main/expass3/insert1.png))
+![alt text]([http://url/to/img.png](https://github.com/MikalDr/dat250assignment1/blob/main/expass3/insert1.png))
 
 I also added two extra dogs, to use for the query later on.
-![insert2]([http://url/to/img.png](https://github.com/MikalDr/dat250assignment1/blob/main/expass3/insert2.png))
+![alt text]([http://url/to/img.png](https://github.com/MikalDr/dat250assignment1/blob/main/expass3/insert2.png))
 
 ### Query
 
