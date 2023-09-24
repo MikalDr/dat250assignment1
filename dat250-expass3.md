@@ -98,4 +98,6 @@ processing on it before displaying it. Reducing the need to alter It later.
 - Mongosh did not like the copied commands from the examples as they contained linebreaks, so
     in order to use the commands I have to put it on one line, if not there were errors.
 
-
+### Verify
+Using the command in the document regarding verification of the software
+![verify](https://github.com/MikalDr/dat250assignment1/blob/main/expass3/verify.png?raw=true)
